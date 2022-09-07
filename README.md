@@ -1,6 +1,7 @@
 # quadrotor-ecbf-control-python
 
 References:
+
 [1] https://www.kth.se/polopoly_fs/1.588039.1600688317!/Thesis
 
 [2] https://arxiv.org/pdf/1903.11199.pdf
